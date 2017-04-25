@@ -6,10 +6,10 @@ Artistic style transfer by convolutional neural network, inspired by Harish Nara
 
 - Python 3.5
 - TensorFlow 1.0 (GPU version recommended)
-- Keras
-- Numpy
-- SciPy
-- PIL
+- Keras 1.2.2
+- Numpy 1.12.0
+- SciPy 0.19.0
+- Pillow 4.1.0 (A famous PIL fork)
 
 I personally recommend you to use Anaconda to build your virtual environment. And the program probably cost a significant time if you are not using the GPU version Tensorflow.
 
